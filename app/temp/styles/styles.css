@@ -602,7 +602,7 @@ a {
 		color: #FFF;
 	}
 
-.headline {
+d .headline {
 	font-size: 1.9rem;
 	font-weight: 300;
 	color: #2f5572;
@@ -610,49 +610,49 @@ a {
 
 @media (min-width: 530px) {
 
-.headline {
+d .headline {
 		font-size: 2.875rem
 }
 	}
 
-.headline--centered {
+d .headline--centered {
 		text-align: center;
 	}
 
-.headline--orange {
+d .headline--orange {
 		color: #d59541;
 	}
 
-.headline--small {
+d .headline--small {
 		font-size: 1.2rem;
 	}
 
 @media (min-width: 530px) {
 
-.headline--small {
+d .headline--small {
 			font-size: 1.875rem
 	}
 	}
 
-.headline--narrow {
+d .headline--narrow {
 		max-width: 500px;
 		margin-right: auto;
 		margin-left: auto;
 	}
 
-.headline--light {
+d .headline--light {
 		font-weight: 100;
 	}
 
-.headline--b-margin-small {
+d .headline--b-margin-small {
 		font-weight: .5em;
 	}
 
-.headline--b-margin-large {
+d .headline--b-margin-large {
 		font-weight: 1.6em;
 	}
 
-.headline--no-t-margin {
+d .headline--no-t-margin {
 		margin-top: 0;
 	}
 
